@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 1024 1024" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g transform="scale(1, -1) translate(0, -900)">
+  <path d="M 337 653 Q 467 693 469 694 Q 476 701 472 709 Q 465 719 437 725 Q 409 729 348 702 L 299 685 Q 250 672 194 663 Q 161 656 186 641 Q 228 622 290 641 L 292 641 L 337 653 Z" fill="lightgray">
+  </path>
+  <path d="M 313 557 Q 325 606 337 653 L 348 702 Q 352 745 381 801 Q 385 810 371 825 Q 344 846 325 853 Q 312 857 304 852 Q 297 846 301 833 Q 314 805 312 788 Q 308 739 299 685 L 292 641 Q 285 598 274 548 L 313 557 Z" fill="black">
+  </path>
+ </g>
+ <g transform="scale(8)">
+  <text stroke="blue" x="53.94375" y="-6.15625">
+   a
+  </text>
+  <text stroke="blue" x="55.06875" y="55.03125">
+   b
+  </text>
+ </g>
+</svg>
