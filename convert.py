@@ -9,6 +9,9 @@ height = 64
 
 for char in sys.argv[1:]:
 
+    if char is None:
+        continue
+
     with open('dictionary.txt') as f:
         for i, line in enumerate(f):
             if 'character":"' + char + '"' in line:

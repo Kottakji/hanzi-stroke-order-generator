@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../hanzi-stroke-order-generator/.idea/makemeahanzi-master.iml" filepath="$PROJECT_DIR$/../hanzi-stroke-order-generator/.idea/makemeahanzi-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hanzi-stroke-order-generator.iml" filepath="$PROJECT_DIR$/.idea/hanzi-stroke-order-generator.iml" />
     </modules>
   </component>
 </project>
